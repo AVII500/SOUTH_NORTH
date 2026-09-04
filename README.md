@@ -38,3 +38,16 @@ Nuclear Project
       ├── Logistics
       ├── Professional services
       └── Specialist manufacturing
+                 NUCLEAR GENERATION
+                         │
+          ┌──────────────┼──────────────┐
+          ▼              ▼              ▼
+      Electricity     Industrial       Hydrogen
+                      Heat             Production
+          │              │              │
+          ├──────────────┼──────────────┤
+          ▼              ▼              ▼
+      Manufacturing   Data Centres   Transport
+          │
+          ▼
+      MOLLii Group
