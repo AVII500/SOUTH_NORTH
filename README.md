@@ -51,3 +51,21 @@ Nuclear Project
           │
           ▼
       MOLLii Group
+GROUP BOARD
+     │
+     ▼
+NUCLEAR STRATEGY COMMITTEE
+     │
+     ├───────────────┐
+     ▼               ▼
+NUCLEAR PROGRAMME   NUCLEAR SAFETY
+DIRECTORATE         COMMITTEE
+     │               │
+     ▼               ▼
+PROJECTS            ASSURANCE
+     │               │
+     └───────┬───────┘
+             ▼
+       OPERATING ENTITY
+             │
+       NUCLEAR FACILITY
