@@ -26,3 +26,15 @@ ENERGY HOLDING COMPANY
         ├── Energy Trading Co.
         │
         └── Industrial Energy Services
+Nuclear Project
+      │
+      ├── Civil engineering
+      ├── Mechanical
+      ├── Electrical
+      ├── Instrumentation
+      ├── Digital
+      ├── Security
+      ├── Materials
+      ├── Logistics
+      ├── Professional services
+      └── Specialist manufacturing
