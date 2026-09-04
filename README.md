@@ -69,3 +69,28 @@ PROJECTS            ASSURANCE
        OPERATING ENTITY
              │
        NUCLEAR FACILITY
+Nuclear Asset ID
+Project ID
+Site ID
+Technology ID
+Regulatory ID
+Licence ID
+Safety Case ID
+Supplier ID
+Contract ID
+Insurance ID
+Finance ID
+Fuel ID
+Waste ID
+Security Classification
+Training Records
+Maintenance Records
+Inspection Records
+Incident Records
+Environmental Records
+Decommissioning Liability
+Asset Valuation
+Energy Output
+Carbon Accounting
+Board Approval
+Regulatory Approval
