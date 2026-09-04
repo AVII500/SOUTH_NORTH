@@ -12,3 +12,17 @@ NUii
                      Energy Management
                             │
                   ORGANISATIONAL DEMAND
+THE MOLLii GROUP
+        │
+        ▼
+ENERGY HOLDING COMPANY
+        │
+        ├── Nuclear Investment Co.
+        │
+        ├── Renewable Energy Co.
+        │
+        ├── Energy Storage Co.
+        │
+        ├── Energy Trading Co.
+        │
+        └── Industrial Energy Services
