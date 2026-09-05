@@ -189,3 +189,26 @@ Operating Cash
              Mortgage Debt
                     │
              Property Acquisition
+36 MONTHS BEFORE MATURITY
+        ↓
+Portfolio Review
+        ↓
+24 MONTHS
+        ↓
+Valuation / Financial Improvement
+        ↓
+18 MONTHS
+        ↓
+Lender Market Review
+        ↓
+12 MONTHS
+        ↓
+Refinancing Strategy
+        ↓
+6 MONTHS
+        ↓
+Applications / Negotiation
+        ↓
+MATURITY
+        ↓
+New Facility
