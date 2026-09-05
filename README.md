@@ -212,3 +212,38 @@ Applications / Negotiation
 MATURITY
         ↓
 New Facility
+MOLLii CAPITAL & WEALTH SYSTEM
+│
+├── 01 Corporate Finance
+│
+├── 02 Commercial Banking
+│
+├── 03 Commercial Mortgage Infrastructure
+│
+├── 04 Property Holding SPVs
+│
+├── 05 Property Acquisition
+│
+├── 06 Development Finance
+│
+├── 07 Refinancing
+│
+├── 08 Property Insurance
+│
+├── 09 Property Accounting
+│
+├── 10 Corporate Treasury
+│
+├── 11 Personal Wealth
+│
+├── 12 Personal Mortgage
+│
+├── 13 Personal Property
+│
+├── 14 Estate Planning
+│
+├── 15 Credit Infrastructure
+│
+├── 16 Master Capital Ledger
+│
+└── 17 Risk & Compliance
