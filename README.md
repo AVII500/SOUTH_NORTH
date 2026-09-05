@@ -144,3 +144,22 @@ LEE ANDERSON LUKE
         ├── Personal Investments
         │
         └── Personal Estate Planning
+PROPERTY PURCHASE
+       ↓
+Affordability Assessment
+       ↓
+Deposit Strategy
+       ↓
+Mortgage Comparison
+       ↓
+Fixed vs Variable Analysis
+       ↓
+Stress Test
+       ↓
+Legal Conveyancing
+       ↓
+Completion
+       ↓
+Mortgage Monitoring
+       ↓
+Remortgage / Overpayment Strategy
