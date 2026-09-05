@@ -69,3 +69,26 @@ PROJECTS            ASSURANCE
        OPERATING ENTITY
              │
        NUCLEAR FACILITY
+                    PROPERTY CAPITAL GOVERNANCE
+                              │
+             ┌────────────────┴────────────────┐
+             │                                 │
+      ORGANISATIONAL TRACK               PERSONAL TRACK
+             │                                 │
+   Commercial Property SPVs             Personal Property
+             │                                 │
+   ┌─────────┼──────────┐                 ┌────┼─────┐
+   │         │          │                 │          │
+Acquisition Development Refinancing   Home Purchase Remortgage
+   │         │          │                 │          │
+   └─────────┴──────────┘                 └────┴─────┘
+             │                                 │
+       Commercial Debt                    Personal Mortgage
+             │                                 │
+             └──────────────┬──────────────────┘
+                            │
+                   MASTER CAPITAL LEDGER
+                            │
+       ┌────────────┬───────┼────────┬────────────┐
+       │            │       │        │            │
+     Assets       Debt    Equity   Cash Flow   Security
