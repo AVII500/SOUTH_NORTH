@@ -92,3 +92,15 @@ Acquisition Development Refinancing   Home Purchase Remortgage
        ┌────────────┬───────┼────────┬────────────┐
        │            │       │        │            │
      Assets       Debt    Equity   Cash Flow   Security
+The MOLLii Group
+       │
+       ├── Operating Companies
+       │      ├── Monocle Optical
+       │      └── Other Trading Entities
+       │
+       └── Property Holding Structure
+              │
+              ├── Property SPV 01
+              ├── Property SPV 02
+              ├── Property SPV 03
+              └── Development SPV
