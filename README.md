@@ -176,3 +176,16 @@ Remortgage / Overpayment Strategy
  Corporate Assets               Personal Residence
           │                           │
  Corporate Equity               Personal Wealth
+Operating Cash
+      │
+      ├── Tax Reserve
+      ├── Operating Reserve
+      ├── Emergency Reserve
+      │
+      └── Property Acquisition Reserve
+                    │
+             Deposit / Equity
+                    │
+             Mortgage Debt
+                    │
+             Property Acquisition
