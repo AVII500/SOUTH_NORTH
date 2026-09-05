@@ -131,3 +131,16 @@ Lender Selection
 Completion
         ↓
 Asset Monitoring
+LEE ANDERSON LUKE
+        │
+        ├── Personal Balance Sheet
+        │
+        ├── Residential Property
+        │
+        ├── Personal Mortgage
+        │
+        ├── Personal Cash Reserve
+        │
+        ├── Personal Investments
+        │
+        └── Personal Estate Planning
