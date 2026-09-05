@@ -104,3 +104,30 @@ The MOLLii Group
               ├── Property SPV 02
               ├── Property SPV 03
               └── Development SPV
+PROPERTY IDENTIFICATION
+        ↓
+Legal / Title Due Diligence
+        ↓
+Independent Valuation
+        ↓
+Rental / Revenue Analysis
+        ↓
+Operating Cost Analysis
+        ↓
+Debt-Service Analysis
+        ↓
+LTV / LTC Analysis
+        ↓
+Stress Testing
+        ↓
+Tax & Accounting Review
+        ↓
+Insurance Review
+        ↓
+Credit Committee
+        ↓
+Lender Selection
+        ↓
+Completion
+        ↓
+Asset Monitoring
