@@ -163,3 +163,16 @@ Completion
 Mortgage Monitoring
        ↓
 Remortgage / Overpayment Strategy
+                 MASTER GOVERNANCE
+                        │
+          ┌─────────────┴─────────────┐
+          │                           │
+     ORGANISATION                 INDIVIDUAL
+          │                           │
+ Corporate Bank Accounts        Personal Bank Accounts
+          │                           │
+ Corporate Debt                  Personal Mortgage
+          │                           │
+ Corporate Assets               Personal Residence
+          │                           │
+ Corporate Equity               Personal Wealth
